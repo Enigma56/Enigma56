@@ -62,7 +62,7 @@
 <!-- Typerwriter Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=If+the+music+is+playing,;I'm+enjoying+my+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Probable+coding+to+some+house+music+right+now" alt="Typing SVG" />
   </a>
 
 <br><br>
