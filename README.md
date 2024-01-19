@@ -13,8 +13,10 @@
 <!---------------------->
 
 <p align="center">
-  <a href="mailto:noam@noamsiegel.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&message=Email&logo=gmail&logoColor=white&color=6cc634"></a>
+  <a href="mailto:saltystudiosinc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&message=Email&logo=gmail&logoColor=white&color=6cc634"></a>
+  <!--------------------
   <a href="https://zcal.co/noam/30min"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Schedule+a+Call&color=6cc624&logo=GoToMeeting&logoColor=white&label="></a>
+  -->
 </p>
 
 <!------------------>
@@ -22,10 +24,10 @@
 <!------------------>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noam-siegel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&message=Resume&logo=linkedin&logoColor=white&color=6cc644"></a>
-  <a href="https://stackoverflow.com/users/11591960/noam-siegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=6cc614&logo=Stack+Overflow&logoColor=FFFFFF&label="></a>
+  <a href="https://www.linkedin.com/in/charlielyster/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&message=Resume&logo=linkedin&logoColor=white&color=6cc644"></a>
+  <!--<a href="https://stackoverflow.com/users/11591960/noam-siegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=6cc614&logo=Stack+Overflow&logoColor=FFFFFF&label="></a>
   <a href="https://medium.com/@noam-siegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=6cc604&logo=Medium&logoColor=FFFFFF&label="></a>
-  <a href="https://twitter.com/noamsiegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=6cc644&logo=Twitter&logoColor=FFFFFF&label="></a>
+  <a href="https://twitter.com/noamsiegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=6cc644&logo=Twitter&logoColor=FFFFFF&label="></a> -->
 </p>
 <br>
 
@@ -43,7 +45,7 @@
 <!------------------>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noamsiegel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=6CC644&fire=6CC644&ring=6CC644&sideLabels=6CC644&currStreakNum=6CC644&sideNums=6CC644&currStreakLabel=6CC644" style="width:75%;" />
+  <img src="https://streak-stats.demolab.com?user=Enigma56&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=6CC644&fire=6CC644&ring=6CC644&sideLabels=6CC644&currStreakNum=6CC644&sideNums=6CC644&currStreakLabel=6CC644" style="width:75%;" />
 </div>
 
 <!-- HID BC I DON"T LIKE IT
@@ -80,8 +82,9 @@
 <!-- TOOLS I USE -->
 <!------------------->
 
+<!--
 <div align="center">
-<details> 
+  <details> 
   <summary>
     <h2>🛠️ Tools I use</h2>
   </summary>
@@ -89,7 +92,7 @@
 <!--   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=true&pause=2000&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=The+tools+I+use:" alt="Typing SVG" />
 </a> -->
- 
+ <!--
  <table style="width:100%; border-collapse:collapse; border=none;">
   <tr>
     <td align="center" valign="top" width="33%" style="border-none;">
@@ -159,4 +162,5 @@
     </td>
   </tr>
 </table>
-</details>
+</details> -->
+
