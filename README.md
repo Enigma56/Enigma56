@@ -63,8 +63,6 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Probably+coding+to+some+house+music+right+now" alt="Typing SVG" />
   </a>
-
-<br><br>
   
 <!-- Spotify Playing Widget 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:50%;" /> -->
@@ -75,7 +73,6 @@
 -->
 </div>
 
-<br><br>
 
 <!------------------->
 <!-- TOOLS I USE -->
